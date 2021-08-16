@@ -1,1 +1,2 @@
 # Infant-Incubator-Vuln-Patching
+This repository contains file Vulnerabilities.txt which describes 4 vulnerabilities and fixes for those vulnerabilities with the Infant Incubator Simulator. The first two vulnerabilities have python scripts and explanations within the code as well as Vulnerabilities.txt as to what they are trying to test. The last two testcases were slightly tougher to create testcases for, so I included a detailed explanation with the vulnerabilities and their fixes.
